@@ -1,0 +1,115 @@
+body{
+    position: fixed;
+    background: #454C66;
+    background-size: 1920px 1080px;
+    margin: 0;
+    font-family: Roboto;
+}
+p{
+    position: fixed;
+    left: 43px;
+    top: 594px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 75px;
+    display: flex;
+                      
+    color: #FFFFFF;
+}
+
+.Foto2{
+    position: fixed;
+    width: 490px;
+    height: 450px;
+    left: 1533px;
+    top: 550px;
+
+
+}
+
+.Ielogoties1{
+    left: 830px;
+    top: 170px;
+    position: fixed;
+    align-items: center;
+    text-align: center;
+    width: 303px;
+    height: 393px;
+    
+
+    
+    background: #454C66;
+    border-radius: 50px;
+    border-style:outset;
+    border-width: 5px;
+    
+}
+h1{
+    position: fixed;
+    width: 177px;
+    height: 130px;
+    left: calc(50% - 177px/2 + 22px);
+    bottom: 888px;
+    top: 175px;
+    left: 895px;
+    
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    display: fixed;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #FFFFFF;
+                      
+}
+#Klients{
+    
+    position: fixed;
+    width: 215px;
+    height: 52px;
+    left: 880px;
+    top: 315px;
+    border-radius: 50px;
+    text-align: center;
+    background: #D3D3D3;
+    
+    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: fixed;
+    align-items: center;
+    
+    justify-content: center;
+
+    color: #000000;
+}
+#Admins{
+    position: fixed;
+    width: 215px;
+    height: 52px;
+    left: 880px;
+    top: 400px;
+    text-align: center;
+    border-radius: 50px;
+    background: #D3D3D3;   
+
+   
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: fixed;
+    align-items: center;
+    justify-content: center;
+    
+
+color: #000000;
+}

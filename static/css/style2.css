@@ -1,0 +1,208 @@
+body{
+  position: fixed;
+  background: #454C66;
+  background-size: 1920px 1080px;
+  margin: 0;
+  font-family: Roboto;
+ }
+.mekletajs{
+  position: fixed;
+  
+  left: 135px;
+  top: 185px;
+  overflow: hidden;
+  align-items: center; 
+  display: flex;
+  justify-content: center;
+
+  background: #F5EBEB;
+  border-radius: 15px;
+}
+.desk{
+  position: fixed;
+  width: 1137px;
+  height: 616px;
+  left: 96px;
+  top: 303.77px;
+
+  background: #C4C4C4;
+}
+
+.dates{
+  position: fixed;
+  width: 531px;
+  height: 384px;
+  left: 1294px;
+  top: 299px;
+
+  background: #D8665D;
+  mix-blend-mode: normal;
+  border-radius: 10px;
+}
+.rezervacija{
+  position: fixed;
+  width: 402px;
+  height: 110px;
+  left: 1348px;
+  top: 175px;
+
+  background: #B0AEA4;
+  border-radius: 50px;
+}
+.RR{
+  position: fixed;
+  width: 337px;
+  height: 65px;
+  left: 1410px;
+  top: 197px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 47px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+ 
+}
+#RezervetReisu{
+  position: fixed;
+  width: 408px;
+  height: 112px;
+  left: 1362px;
+  top: 540px;
+
+  background: #429C97;
+  border-radius: 50px;
+}
+p{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px;
+
+  position: fixed;
+  width: 279px;
+  height: 67px;
+  left: 1426px;
+  top: 562px;
+}
+
+h1{
+  position: fixed;
+  width: 91px;
+  height: 24px;
+  left: 1325px;
+  top: 350px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+h2{
+  position: fixed;
+  width: 91px;
+  height: 24px;
+  left: 1325px;
+  top: 415px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+h3{
+  position: fixed;
+  width: 91px;
+  height: 24px;
+  left: 1325px;
+  top: 480px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 34px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+}
+.vards_block{
+  position: fixed;
+  width: 91px;
+  height: 24px;
+  left: 1600px;
+  top: 375px;
+  
+}
+.uzvards_block{
+  position: fixed;
+  width: 91px;
+  height: 24px;
+  left: 1600px;
+  top: 445px;
+  
+}
+.datums_block{
+  position: fixed;
+  width: 91px;
+  height: 24px;
+  left: 1600px;
+  top: 515px;
+
+}
+.mekletajs img:active{
+  transform: scale(0.9);
+  opacity: 0.7;
+}
+.mekletajs img:hover{
+  opacity: 0.7;
+  
+}
+.mekletajs img{
+ cursor: pointer;
+ transition: transform .3s ease;
+
+}
+.block{
+  position: fixed;
+  left: 1380px;
+  top: 570px;
+}
+.btn{
+  background: #429C97;
+  font-size: 20px;
+  width: 370px;
+  height: 100px;
+  box-sizing: border-box;
+  border-radius: 50px;
+  font-size: 29px;
+  font-family: Roboto;
+}
+.search2{
+  position: fixed;
+  left: 100px;
+  top: 170px;
+	border: 2px solid #ddd;
+	font-size: 25px;
+	padding: 20px;
+	padding-left: 150px;
+	padding-right: 500px;
+	border-radius: 25px;
+	width: 60%;
+  z-index: 3;
+	outline: none;
+}
